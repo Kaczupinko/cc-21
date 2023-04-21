@@ -1,6 +1,6 @@
 const canvas = document.getElementById('gameCanvas');
 const ctx = canvas.getContext('2d');
-
+// comit
 const basketWidth = 80;
 const basketHeight = 20;
 let basketX = (canvas.width - basketWidth) / 2;
